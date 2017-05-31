@@ -9,7 +9,7 @@ The .Rdata file uploaded contains replication data for species richness and abun
 ## Import into R
 
 ```r
-githubURL <- "https://github.com/charlottehchang/WCS-India-Coffee/WCS_Archiving.RData"
+githubURL <- "https://raw.github.com/charlottehchang/WCS-India-Coffee/master/WCS_Archiving.Rdata"
 download.file(githubURL,"myfile")
 load("myfile")
 ```
