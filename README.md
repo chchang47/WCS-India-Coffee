@@ -13,3 +13,5 @@ githubURL <- "https://raw.github.com/charlottehchang/WCS-India-Coffee/master/WCS
 download.file(githubURL,"myfile")
 load("myfile")
 ```
+
+The full replication code is posted at [RPubs](http://rpubs.com/chwchang/WCS-India-Coffee) and is publicly available.
